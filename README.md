@@ -40,5 +40,5 @@ Open the notebook and run the cells in order to reproduce the results.
 All results are generated using logical data operations without hard-coding values. The code is written in a simple and readable way for easy understanding.
 
 ## Author 
-Sudheer
+Sudheer Bellamkonda
 
